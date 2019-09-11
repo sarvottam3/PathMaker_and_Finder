@@ -1,0 +1,1 @@
+./part3 ../Twitter_Data_Small.txt 3 39478
